@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Popular Movies</string>
+    <string name="sort_by_popularity_desc">Most popular</string>
+    <string name="sort_by_rates_desc">Highest rated</string>
+    <string name="movies_data_loaded">The movies are loaded successfully</string>
+    <string name="favorite_movies_not_found">There are no favorite movies :(</string>
+    <string name="movies_not_found">The movies are not found :(</string>
+    <string name="movie_detail">Movie details</string>
+    <string name="Synopsis">Synopsis</string>
+    <string name="Trailers">Trailers</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="trailer">Trailer</string>
+    <string name="no_movie_selected">No movie selected</string>
+    <string name="added_to_favorite">Added to favorite</string>
+    <string name="removed_from_favorite">Removed from favorite</string>
+    <string name="reviews">Reviews</string>
+    <string name="no_reviews">No reviews</string>
+    <string name="no_trailers">No trailers</string>
+    <string name="share">Share</string>
+    <string name="movie_title" />
+    <string name="show_favorites">Show favorites</string>
+
+</resources>

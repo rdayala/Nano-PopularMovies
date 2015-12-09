@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="text_padding_8dp">8dp</dimen>
+    <dimen name="text_margin_left">16dp</dimen>
+    <dimen name="subtitle_text_size">16sp</dimen>
+    <dimen name="title_text_size">22sp</dimen>
+    <dimen name="text_padding_16dp">16sp</dimen>
+    <dimen name="text_margin_top">16sp</dimen>
+    <dimen name="detail_card_view_margin_left">16dp</dimen>
+    <dimen name="detail_card_view_margin_right">16dp</dimen>
+    <dimen name="detail_card_view_margin">16dp</dimen>
+    <dimen name="no_movie_selected_text_size">32sp</dimen>
+    <dimen name="movie_title_height">80dp</dimen>
+    <dimen name="movie_poster_image_dimen">185dp</dimen>
+    <dimen name="movie_item_highlight_text_size">18sp</dimen>
+    <dimen name="movie_item_normal_text_size">16sp</dimen>
+    <dimen name="trailer_tumbnail_width">140sp</dimen>
+    <dimen name="trailer_tumbnail_height">140sp</dimen>
+
+</resources>
